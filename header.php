@@ -11,7 +11,6 @@
     <title>Index</title>
 </head>
 <body>
-<!-- navbar -->
     <nav class="navbar navbar-expand-md navbar-dark bg-dark sticky-top">
         <div class="container">
             <a href="index.php" class="navbar-brand">Comfortable Furnitures</a>
@@ -48,3 +47,5 @@
             </div>
         </div>
     </nav>
+</body>
+</html>

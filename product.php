@@ -2,7 +2,6 @@
 include_once 'header.php';
 ?>
 <div class="container">
-<!-- left side -->
     <div class="row">
         <div class="col-md-4">
             <div class="card my-5">
@@ -16,7 +15,6 @@ include_once 'header.php';
                 </div>
             </div>
         </div>
-<!-- right side -->
         <div class="col-md-4">
             <h3 class="mt-5">Chair1</h3>
             <p>It's functional for playing games. </p>

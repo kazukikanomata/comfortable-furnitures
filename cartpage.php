@@ -6,7 +6,6 @@ include_once 'header.php';
     <form action="#" method="post">
         <div class="row">
             <div class="col-8">
-    <!-- left side -->
                 <div class="row my-3 text-center">
                     <div class="col-2">
                         <h5>Name</h5>
@@ -56,7 +55,7 @@ include_once 'header.php';
                             <a class="dropdown-item" href="#">Pink</a>
                             <a class="dropdown-item" href="#">Yellow</a>
                         </div>
-                    <button type="submit" class="btn btn-danger btn-lg mt-5" name="btn_cancel">Cancel</button>
+                        <button type="submit" class="btn btn-danger btn-lg mt-5" name="btn_cancel">Cancel</button>
                     </div>
                 </div>
                 <hr>
@@ -93,15 +92,12 @@ include_once 'header.php';
                         </div>
                         <button type="submit" class="btn btn-danger btn-lg mt-5" name="btn_cancel">Cancel</button>
                     </div>
-
                 </div>
                 <hr>
             </div>
-
             <div class="col-4">
-    <!-- right side -->
-            <h2 class="text-center">Total</h2>
-            <h5>Price Details</h5>
+                <h2 class="text-center">Total</h2>
+                <h5>Price Details</h5>
                 <div class="row my-3">
                     <div class="col-md-6">
                         <p>Chair1</p>
@@ -133,7 +129,6 @@ include_once 'header.php';
             </div>
         </div>
     </form>
-    <hr>
 </div>
 <?php
 include_once 'footer.php';
